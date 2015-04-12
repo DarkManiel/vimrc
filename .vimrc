@@ -1,6 +1,6 @@
 filetype plugin on
 filetype indent on
-#made a dummytest
+#deleted it
 if has("syntax")
 	syntax enable
 endif
